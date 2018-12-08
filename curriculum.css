@@ -1,0 +1,124 @@
+
+body{
+    
+    background:#F9F7F7;
+    font-family:Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+}
+
+/**menu de navegacion interno**/
+
+.nav {
+    
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+    margin-top: 30px;
+}
+
+.nav__ul__li {
+    
+    list-style: none;
+    font-size: 18px;
+    margin-bottom: 3px;
+    margin-left: 15px;
+    margin-right: 140px;
+    list-style-image: none;
+    background-color: #FDB87D;
+    padding-left: 8px;
+    padding-right: 120px;
+    border: 2px solid #DBE2EF;
+    border-radius: 28px 28px 28px 28px;
+    -moz-border-radius: 28px 28px 28px 28px;
+    -webkit-border-radius: 28px 28px 28px 28px;
+}
+
+.nav__ul__li__a {
+   
+    text-decoration: none;
+}
+
+.nav__ul__li__img {
+    
+    list-style: none;
+}
+
+ .nav__ul__li__img--link {
+    
+    background: #F9F7F7;
+    padding-left: 6px;
+    border-radius: 120px 120px 120px 120px;
+    -moz-border-radius: 120px 120px 120px 120px;
+    -webkit-border-radius: 120px 120px 120px 120px;
+    border: 1px solid white;
+}
+
+/**sections**/
+
+.div__sections__total {
+    
+    display: inline-block;
+    width: 65%;
+    margin-right: 10%;
+    margin-left: 5%;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+.section {
+
+    background-color: #DBE2EF;
+    padding-top: 35px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    }
+
+.section__title {
+    
+    color: #032A33;
+    font-size: 40px;
+}
+
+.section__subtitles {
+    
+    border-bottom: 3px solid #404969;
+}
+
+.section__paragrahps {
+    
+    font-size: 15px;
+}
+
+
+/**data list**/
+
+.section__dat__ul__li {
+    
+    border-bottom: 2px dotted #393E46;
+}
+
+.section__dat__ul__li-2 {
+    
+    border-bottom: 2px dotted #307672;
+}
+
+.section__dat__ul{
+    
+    color: #000000;
+    font-size: 18px;
+}
+
+/*portfolio*/
+
+.section__portfolio__img {
+    
+    display: inline-block;
+    vertical-align: left;
+    list-style: none;
+    
+}
+
+
+
